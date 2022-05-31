@@ -29,3 +29,16 @@ Results and discussions
 The result is that the more times the MCMC simulation is run, the more accurate the values are reached. 
 There is a difference in the convergence value between 100 rotations and 10000 rotations. Also, through burn-in, autocorrelation, 
 and running mean plot, we were able to remove interference and determine the suitability of the function.
+
+![스크린샷 2022-05-30 오후 9 40 19](https://user-images.githubusercontent.com/41169144/171076217-e90639d8-6676-49c9-a148-9e18b4270e92.png)
+
+![스크린샷 2022-05-30 오후 9 40 25](https://user-images.githubusercontent.com/41169144/171076226-2c00735f-ed08-4f22-8361-15970fd75fba.png)
+
+![스크린샷 2022-05-30 오후 9 40 29](https://user-images.githubusercontent.com/41169144/171076234-4ea53ee9-b48a-468d-b878-168af0747fb1.png)
+
+![스크린샷 2022-05-30 오후 9 40 36](https://user-images.githubusercontent.com/41169144/171076240-3e44272c-ed35-4d6d-bd15-06e3fd92528a.png)
+
+![스크린샷 2022-05-30 오후 9 40 40](https://user-images.githubusercontent.com/41169144/171076263-34882f21-516b-4bfe-872a-a08f7edcc365.png)
+
+![스크린샷 2022-05-30 오후 9 40 44](https://user-images.githubusercontent.com/41169144/171076269-208f2163-66a1-4848-a82f-24df95d2b150.png)
+
